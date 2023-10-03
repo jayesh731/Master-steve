@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink:wght@400;700&family=Aref+Ruqaa:wght@700&display=swap');
+@font-face {
+    font-family: 'axiformaregular';
+    src: url('../axiforma_regular-webfont.woff2') format('woff2'),
+         url('../axiforma_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'axiformamedium';
+    src: url('../axiforma-medium-webfont.woff2') format('woff2'),
+         url('../axiforma-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'axiformasemibold';
+    src: url('../axiforma-semi-bold-webfont.woff2') format('woff2'),
+         url('../axiforma-semi-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
